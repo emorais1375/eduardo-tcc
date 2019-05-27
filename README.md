@@ -1,2 +1,2 @@
 # Eduardo TCC
-TCC sobre um Proposta de Arquitetura para Transmissão Escalável e Segura de Média
+TCC sobre uma Proposta de Arquitetura para Transmissão Escalável e Segura de Média
